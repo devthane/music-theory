@@ -16,7 +16,7 @@
 package scale
 
 import (
-	"github.com/go-music-theory/music-theory/note"
+	"github.com/devthane/music-theory/note"
 )
 
 // Scale in a particular key

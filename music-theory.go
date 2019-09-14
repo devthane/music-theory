@@ -119,11 +119,11 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/codegangsta/cli"
+	"github.com/urfave/cli"
 
-	"github.com/go-music-theory/music-theory/chord"
-	"github.com/go-music-theory/music-theory/key"
-	"github.com/go-music-theory/music-theory/scale"
+	"github.com/devthane/music-theory/chord"
+	"github.com/devthane/music-theory/key"
+	"github.com/devthane/music-theory/scale"
 )
 
 func main() {

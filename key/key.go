@@ -14,7 +14,7 @@
 package key
 
 import (
-	"github.com/go-music-theory/music-theory/note"
+	"github.com/devthane/music-theory/note"
 )
 
 // Of a particular key, e.g. Of("C minor 7")

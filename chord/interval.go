@@ -2,7 +2,7 @@
 package chord
 
 import (
-	"github.com/go-music-theory/music-theory/note"
+	"github.com/devthane/music-theory/note"
 )
 
 // Interval within a chord, counted from 1 (the "root" to e.g. 3 (the "third") or 5 (the "fifth") up to 16.

@@ -2,7 +2,7 @@
 package key
 
 import (
-	"github.com/go-music-theory/music-theory/note"
+	"github.com/devthane/music-theory/note"
 )
 
 func (k Key) RelativeMinor() (rk Key) {
